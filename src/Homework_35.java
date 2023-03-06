@@ -11,5 +11,9 @@ public class Homework_35 {
     Student sidorov = new Student();
     sidorov.name = "Петр Сидоров";
     sidorov.number = 3;
+
+    Student vasiljev = new Student("Сидор Васильев", 4);
+
+    Student romashkin = new Student("Рома Ромашкин", 5);
   }
 }
